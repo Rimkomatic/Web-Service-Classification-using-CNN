@@ -31,18 +31,3 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rimkomatic/Web-Service-Classification-using-CNN.git
-   cd Web-Service-Classification-using-CNN
-   ```
-
-2. Launch the notebook:
-   ```bash
-   jupyter notebook Web_Service_Classification_CNN.ipynb
-   ```
