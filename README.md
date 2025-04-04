@@ -46,10 +46,3 @@ pip install -r requirements.txt
    ```bash
    jupyter notebook Web_Service_Classification_CNN.ipynb
    ```
-
-3. (Optional) To load the saved model:
-   ```python
-   from keras.models import load_model
-   model = load_model("CNN_model.h5")
-   ```
-
